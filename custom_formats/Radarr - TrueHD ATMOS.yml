@@ -8,12 +8,12 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - TrueHD
+  pattern: TrueHD
 - name: Radarr - ATMOS
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - ATMOS
+  pattern: ATMOS
 - name: Radarr - Not Basic Dolby Digital
   negate: true
   required: true
